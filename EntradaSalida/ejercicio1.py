@@ -1,0 +1,5 @@
+vocal = input("Ingrese una vocal en minuscula: ")
+letra = input("Ingrese una letra en mayúscula: ")
+letra_modificada = letra.lower()
+vocal_modificada = vocal.upper()
+print("El resultado es: ", letra_modificada + vocal_modificada)
