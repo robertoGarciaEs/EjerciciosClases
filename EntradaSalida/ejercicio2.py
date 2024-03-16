@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre: ")
+edad = int(input("Ingrese su edad: "))
+sexo = input("Ingrese su sexo: ")
+print("Te llamas: ", nombre)
+print("Tu edad es: ", edad)
+print("Eres: ", sexo)
